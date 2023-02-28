@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rithvik-Chikatla
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning WebDev
 - 💞️ I’m looking to collaborate on (no such thoughts right now)
-- 📫 Mail me if you wanna talk!
+- 📫 DM's always open!
 
 <!---
 Rithvik-Chikatla/Rithvik-Chikatla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
