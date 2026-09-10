@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rithvik-Chikatla
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning WebDev
-- 💞️ I’m looking to collaborate on (no such thoughts right now)
+- 🌱 I’m currently working as a Software Engineer at Drishya AI Labs
+- 💞️ I’m looking to collaborate on Software Engineering
 - 📫 DM's always open!
 
 <!---
